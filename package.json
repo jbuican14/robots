@@ -2,7 +2,7 @@
   "name": "robots",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/jbuican14/react-Robot",
+  "homepage": "https://github.com/jbuican14/react-Robot.git",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
@@ -10,7 +10,8 @@
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
     "react-scripts": "4.0.0",
-    "web-vitals": "^0.2.4"
+    "web-vitals": "^0.2.4",
+    "gh-pages": "2.0.1"
   },
   "scripts": {
     "start": "react-scripts start",
