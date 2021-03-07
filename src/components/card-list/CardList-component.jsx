@@ -5,7 +5,6 @@ const CardList = (props) => {
   return (
     <div className="ui class-list">
       {props.robots.map((robot, idx) => (
-        // <h1 key={idx}>{robot.name} </h1>
         <Card key={idx} robot={robot} />
       ))}
     </div>

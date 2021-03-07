@@ -33,7 +33,7 @@ class App extends React.Component {
     );
     return (
       <div className="App">
-        <h1>Robots </h1>
+        <h1>Mix of folks </h1>
         <Search placeholder="Search Robot ..." handleChange={this.onSearch} />
         <CardList robots={filterSearchRobots} />
       </div>
