@@ -20,3 +20,4 @@ npm run predeploy : compile the project to github page
 - SCSS
 
 #View github page : https://jbuican14.github.io/robots/
+![axios-fetch](https://user-images.githubusercontent.com/15041008/110803642-4ed17100-8277-11eb-9aa3-0b3759396919.png)
